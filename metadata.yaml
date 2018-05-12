@@ -1,5 +1,8 @@
 _repo: Fated-to-Be-Free--A-Novel_12303
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ingelow, Jean
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4305
     wikipedia: http://en.wikipedia.org/wiki/Jean_Ingelow
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12303#Fated-to-Be-Free--A-Novel
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
